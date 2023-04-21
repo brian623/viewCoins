@@ -1,4 +1,4 @@
-# Registro de Hoteles
+# Api Hoteles
 
 Aplicativo Web de Criptomonedas desarrollada con Symfony + Vue.
 
