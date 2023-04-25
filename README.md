@@ -1,4 +1,4 @@
-# Api Hoteles
+# ViewCoins
 
 Aplicativo Web de Criptomonedas desarrollada con Symfony + Vue.
 
